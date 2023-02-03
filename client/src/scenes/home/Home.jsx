@@ -1,11 +1,13 @@
-import MainCarousel from "./MainCarousel";
 import ShoppingList from "./ShoppingList";
+import Subscribe from "./Subscribe";
+import MainCarousel from "./MainCarousel";
 
 function Home() {
   return (
     <div className="home">
-      <MainCarousel sx={{ mt: "25px" }} />
+      <MainCarousel />
       <ShoppingList />
+      <Subscribe />
     </div>
   );
 }
