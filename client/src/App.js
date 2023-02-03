@@ -4,7 +4,7 @@ import Home from "./scenes/home/Home";
 import Navbar from "./scenes/global/Navbar";
 // import Footer from "./scenes/global/Footer";
 import ItemDetails from "./scenes/itemDetails/ItemDetails";
-//import CartMenu from "./scenes/global/CartMenu";
+import CartMenu from "./scenes/global/CartMenu";
 import Checkout from "./scenes/checkout/Checkout";
 import Confirmation from "./scenes/checkout/Confirmation";
 
@@ -30,7 +30,7 @@ function App() {
           <Route path="checkout" element={<Checkout />} />
           <Route path="checkout/success" element={<Confirmation />} />
         </Routes>
-        {/** <CartMenu /> */}
+        <CartMenu />
         {/** <Footer /> */}
       </BrowserRouter>
     </div>

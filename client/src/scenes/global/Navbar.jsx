@@ -40,7 +40,13 @@ function Navbar() {
           sx={{ "&:hover": { cursor: "pointer" } }}
           color={shades.secondary[500]}
         >
-          ECOMMER
+          <img
+            alt="shine-logo"
+            width="100px"
+            height="100px"
+            src={`../../assets/shine-logo.jpeg`}
+            style={{ cursor: "pointer"}}
+          />
         </Box>
         <Box
           display="flex"
