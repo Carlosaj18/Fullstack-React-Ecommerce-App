@@ -42,10 +42,10 @@ function Navbar() {
         >
           <img
             alt="shine-logo"
-            width="100px"
+            width="200px"
             height="100px"
-            src={`../../assets/shine-logo.jpeg`}
-            style={{ cursor: "pointer"}}
+            src={require(`../../assets/shine-logo.jpeg`)}
+            style={{ cursor: "pointer" }}
           />
         </Box>
         <Box
