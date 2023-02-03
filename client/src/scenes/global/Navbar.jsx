@@ -83,5 +83,4 @@ function Navbar() {
     </Box>
   );
 }
-
 export default Navbar;
