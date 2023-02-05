@@ -79,7 +79,6 @@
 ## About The Project!
 
 ![Product Name Screen Shot][product-screenshot]
-![Product Name Screen Shot][product-screenshot2]
 
 
 My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
@@ -184,15 +183,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ca
 [issues-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/
-[product-screenshot]: https://user-images.githubusercontent.com/62365628/213933933-376cf361-be21-481e-a876-93f794866c4c.jpg
-
-
-
-
-
-
-
-[product-screenshot2]: https://user-images.githubusercontent.com/62365628/214895567-c305eda7-4195-48f6-ad85-2212b550ee9a.jpeg
+[product-screenshot]: https://user-images.githubusercontent.com/62365628/216798918-82c7b3c2-8936-4e80-bf5d-9b83d2a1f3bc.mp4
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React-url]: https://reactjs.org/
