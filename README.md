@@ -96,15 +96,21 @@ Here's why:
 
 ### Built With
 
+Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
+
 <p align="center">
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/216799491-89418b32-3745-4f1c-9e4c-cfc1144214f0.svg" alt="Strapi" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="Firebase" height="40" style="vertical-align:top; margin:10px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:10px"</a>
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
+  
+  
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,22 +120,36 @@ Here's why:
 
 ### Prerequisites
 
+* Install npm - strapi
+  ```sh
+  npm run develop
+  ```
+
 * npm
   ```sh
   npm install npm@latest -g
+  ```
+  
+  * npm - react
+  ```sh
+  npm start npm@latest -g
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Carlosaj18/Legal-App-.git
+   git clone https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Start the Project
+3. Start the Server
+   ```sh
+   npm run develop
+   ```
+4. Start the Client
    ```sh
    npm start
    ```
@@ -140,13 +160,13 @@ Here's why:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Search for your document
-- [x] Add it to your templates 
-- [ ] Download the document 
-- [ ] Use the document based on your needs
-- [ ] All your documents will be save in your central repository
+- [x] Start the Server
+- [x] Start the Client  
+- [ ] Select your products
+- [ ] Go to the payment section 
+- [ ] Checkput purchases 
 
-See the [open issues](https://github.com/Carlosaj18/Legal-App-/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +191,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/Legal-App]
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
