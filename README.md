@@ -130,7 +130,7 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
   npm install npm@latest -g
   ```
   
-  * npm - react
+* npm - react
   ```sh
   npm start npm@latest -g
   ```
