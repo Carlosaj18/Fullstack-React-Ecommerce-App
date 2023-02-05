@@ -177,13 +177,13 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ca
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Carlosaj18/Legal-App/graphs/contributors
+[contributors-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Carlosaj18/Legal-App/network/members
+[forks-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Carlosaj18/Legal-App/issues
+[issues-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/
 [product-screenshot]: https://user-images.githubusercontent.com/62365628/213933933-376cf361-be21-481e-a876-93f794866c4c.jpg
