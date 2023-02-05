@@ -32,19 +32,19 @@
     <img src="https://user-images.githubusercontent.com/62365628/214876004-be858914-bb6b-4b6e-8c40-b49112ff0d30.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Shine Ecommerce for hearings </h3>
+  <h3 align="center">Shine Ecommerce for Earrings </h3>
 
   <p align="center">
     Our aim is to empower women to let their light shine!
     <br />
-    <a href="https://github.com/Carlosaj18/Legal-App"><strong>Explore the site »</strong></a>
+    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Carlosaj18/Legal-App">View Demo</a>
     ·
-    <a href="https://github.com/Carlosaj18/Legal-App/issues">Report Bug</a>
+    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Carlosaj18/Legal-App/issues">Request Feature</a>
+    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Request Feature</a>
   </p>
 </div>
 
