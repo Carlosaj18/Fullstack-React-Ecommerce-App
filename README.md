@@ -32,12 +32,12 @@
     <img src="https://user-images.githubusercontent.com/62365628/214876004-be858914-bb6b-4b6e-8c40-b49112ff0d30.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best App for Legal Documents </h3>
+  <h3 align="center">Shine Ecommerce for hearings </h3>
 
   <p align="center">
-    An awesome App for your Legal Documents needs!
+    Our aim is to empower women to let their light shine!
     <br />
-    <a href="https://github.com/Carlosaj18/Legal-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Carlosaj18/Legal-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Carlosaj18/Legal-App">View Demo</a>
