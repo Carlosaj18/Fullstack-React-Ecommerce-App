@@ -35,7 +35,7 @@
   <h3 align="center">Shine Ecommerce for Earrings </h3>
 
   <p align="center">
-    Our aim is to empower women to let their light shine!
+    React Responsive, Fullstack, Shine Ecommerce App. We will be using React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit to build this entire application. This application will allow you to add products into a cart, have a form to fill out information and make payments through Stripe with a backend supported by Strapi.
     <br />
     <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App"><strong>Explore the site »</strong></a>
     <br />
@@ -90,7 +90,7 @@ My desire is to nurture your true identity. My heart is to constantly remind you
 
 Here's why:
 * Shine Artisanal was born out of the desire to help women encounter their true and beautiful self as the unique masterpiece that God designed them to be.
-
+* Our aim is to empower women to let their light shine!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
