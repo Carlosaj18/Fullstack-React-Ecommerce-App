@@ -120,7 +120,7 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 
 ### Prerequisites
 
-* Install npm - strapi
+* Install Strapi
   ```sh
   npm run develop
   ```
@@ -128,11 +128,6 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 * npm
   ```sh
   npm install npm@latest -g
-  ```
-  
-* npm - react
-  ```sh
-  npm start npm@latest -g
   ```
 
 ### Installation
