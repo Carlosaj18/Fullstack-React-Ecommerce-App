@@ -122,7 +122,7 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 ### 2. Git clone and cd into the repo folder:
 
 ```bash
-https://github.com/Carlosaj18/Fullstack-React-Ecommerce-App.git && cd chatgpt-clone
+https://github.com/Carlosaj18/Fullstack-React-Ecommerce-App.git && cd ecommerce-clone
 ```
 
 ### 3. Install all dependencies
