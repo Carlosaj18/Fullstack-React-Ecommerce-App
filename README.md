@@ -40,7 +40,7 @@
     <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Carlosaj18/Legal-App">View Demo</a>
+    <a href="https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-82bd-ef1055732398.mp4">View Demo</a>
     ·
     <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Report Bug</a>
     ·
@@ -78,23 +78,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project!
 
-
-
-
 https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-82bd-ef1055732398.mp4
 
-
-
-
-
-
 My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
+
+## Usage
+<p id="Usage"><p>
 
 Here's why:
 * Shine Artisanal was born out of the desire to help women encounter their true and beautiful self as the unique masterpiece that God designed them to be.
 * Our aim is to empower women to let their light shine!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -111,8 +105,6 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
   
-  
- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,34 +114,71 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 
 ### Prerequisites
 
-* Install Strapi
-  ```sh
-  npm run develop
-  ```
+`**Note**`: This app requires API key from <a href="https://strapi.io/" >Strapi Account</a> and <a href="https://stripe.com/docs/checkout/quickstart" >Stripe Account</a>
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the Server
-   ```sh
-   npm run develop
-   ```
-4. Start the Client
-   ```sh
-   npm start
-   ```
+### 2. Git clone and cd into the repo folder:
+
+```bash
+https://github.com/Carlosaj18/Fullstack-React-Social-App.git && cd chatgpt-clone
+```
+
+### 3. Install all dependencies
+
+```bash
+npm install
+```
+
+### 4. In root directory of the server, create a `.env` file
+
+```bash
+.env
+```
+
+### 5. In the `.env` file, create following environment variables:
+
+```
+PORT=1337
+APP_KEYS=YOUR_APP_KEY
+API_TOKEN_SALT=YOUR_API_TOKEN_SALT
+ADMIN_JWT_SECRET=YOUR_ADMIN_JWT_SECRET
+JWT_SECRET=YOUR_JWT_SECRET
+STRIPE_SECRET_KEY=YOUR_STRIPE_SECRET
+
+```
+
+### 6. Install stripe
+
+```bash
+npm i stripe
+
+```
+
+### 7. Run the server
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 8. Run the client
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 9. Access the server in your browser at [`http://localhost:1337/admin`](http://localhost:1337/admin)
+
+### 10. Access the project in your browser at [`http://localhost:3000`](http://localhost:3000)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +197,6 @@ See the [open issues](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-Ap
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -185,10 +213,22 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Live Site 
+
+<p id="live-site"><p>
+
+<a href="">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+
+• **[Ecommer App]()** is a responsive web app can be viewed on any device.
+
+<br>
+
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App]
+<a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
+
+<p><a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"></a> <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"></a> <a href="mailto:cjaramilloportilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"></a> <a href="https://github.com/Carlosaj18"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Github badge"></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
