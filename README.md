@@ -219,7 +219,7 @@ Don't forget to give the project a star! Thanks again!
 
 <a href="">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-• **[Ecommer App]()** is a responsive web app can be viewed on any device.
+• **[Ecommerce App]()** is a responsive web app can be viewed on any device.
 
 <br>
 
