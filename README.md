@@ -49,38 +49,14 @@
 </div>
 
 <br />
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
-## About The Project!
+<!-- ABOUT THE PROJECT -->
+## :star2: About the Project
 
-https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-82bd-ef1055732398.mp4
-
-My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
+<div align="justify"> My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
+  <br><br>
+</div>
 
 ## Usage
 <p id="Usage"><p>
@@ -90,9 +66,9 @@ Here's why:
 * Our aim is to empower women to let their light shine!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+## Project Technological Stack:
 
-Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
+* 
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
@@ -105,9 +81,7 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
   
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+## Features:
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -115,7 +89,6 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 ### Prerequisites
 
 `**Note**`: This app requires API key from <a href="https://strapi.io/" >Strapi Account</a> and <a href="https://stripe.com/docs/checkout/quickstart" >Stripe Account</a>
-
 
 ### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
@@ -183,35 +156,7 @@ npm run dev
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Start the Server
-- [x] Start the Client  
-- [ ] Select your products
-- [ ] Go to the payment section 
-- [ ] Checkput purchases 
-
-See the [open issues](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-82bd-ef1055732398.mp4 
 
 ## Live Site 
 
