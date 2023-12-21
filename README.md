@@ -51,24 +51,21 @@
 <br />
 
 <!-- ABOUT THE PROJECT -->
-<!-- ABOUT THE PROJECT -->
 ## :star2: About the Project
 
 <div align="justify"> My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
   <br><br>
 </div>
 
-## Usage
-<p id="Usage"><p>
-
-Here's why:
-* Shine Artisanal was born out of the desire to help women encounter their true and beautiful self as the unique masterpiece that God designed them to be.
-* Our aim is to empower women to let their light shine!
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Project Technological Stack:
 
-* 
+* React: Frontend library for building the user interface.
+* Material UI: UI framework for consistent and appealing design.
+* Stripe: Payment gateway integration for secure transactions.
+* Formik: Form library to manage form inputs and validation.
+* Yup: Schema validation for form validation in React.
+* Strapi: Headless CMS used for the backend.
+* Redux Toolkit: State management library for predictable state updates.
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
@@ -82,6 +79,16 @@ Here's why:
 </p>
   
 ## Features:
+
+*      User Authentication: Secure user authentication and account creation.
+*      Product Management: Capability to manage inventory by adding, editing, and removing products.
+*      User Cart: Functionality allowing users to add selected products to a shopping cart.
+*      Checkout Process: Smooth flow ensuring a hassle-free checkout experience.
+*      Payment Gateway: Integration with Stripe for secure and reliable payment processing.
+*      Responsive Design: Ensuring accessibility and functionality across various devices.
+*      CMS Integration: Utilizing Strapi backend for efficient content management and data handling.
+*      State Management: Employing Redux Toolkit for predictable state handling.
+*      UI Consistency: Material UI implementation for visually appealing and consistent design.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -174,9 +181,6 @@ https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-
 <a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
 
 <p><a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"></a> <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"></a> <a href="mailto:cjaramilloportilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"></a> <a href="https://github.com/Carlosaj18"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Github badge"></a></p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
